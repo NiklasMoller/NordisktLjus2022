@@ -26,4 +26,4 @@ Arduino Keyboard Reference: https://www.arduino.cc/reference/en/language/functio
 ## Sunday:
 Ultrasonic Sensor: https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/ <br>
 Stepper Motor: https://youtu.be/4iRvjBwAzrM <br>
-
+LED Ring: https://www.kjell.com/se/kunskap/hur-funkar-det/arduino/arduino-projekt/lys-upp-med-neopixel
